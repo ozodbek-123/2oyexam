@@ -1,0 +1,1 @@
+cd "c:\Users\user\Desktop\2oyexam\" ; if ($?) { gcc 8.c -o 8 } ; if ($?) { .\8 }
